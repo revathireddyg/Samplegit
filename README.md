@@ -1,3 +1,4 @@
 # Samplegit
-Intro to git
-I am Revathi reddy
+Intro to git.
+<br>
+I am Revathi reddy.
